@@ -1,0 +1,181 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.container{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+body{
+    width: 1440px;
+    height: auto;
+}
+
+
+header{
+    width: 1273px;
+height: 70px;
+background: #272C3D;
+box-shadow: 0px 0px 10px 10px #00000080;
+gap: 40px;
+padding: 20px;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+
+header ul {
+font-size: 20px;
+font-weight: 400;
+line-height: 28.6px;
+list-style: none;
+display: flex;
+justify-content: center;
+gap: 50px;
+color: white;
+}   
+
+input{
+    width: 241.87px;
+height: 30px;
+top: 20px;
+left: 790.53px;
+border-radius: 5px 0px 0px 0px;
+background: #404864;
+}
+
+select{
+    width: 165.49px;
+height: 30px;
+left: 1070.59px;
+background: #00000080;
+color: white;
+}
+
+.section-one{
+    width: 1273px;
+height: 554px;
+background-image: url(./Bg.png);
+
+}
+
+.section-one h1 {
+display: flex;
+justify-content: center;
+align-items: end;
+}
+
+
+
+h1{
+    width: 274px;
+    height: 68px;
+    top: 645px;
+    left: 538px;
+font-size: 32px;
+font-weight: 400;
+line-height: 45.76px;
+color: white;
+}
+
+
+.img{
+    width: 297.25px;
+height: 221.67px;
+box-shadow: 0px 0px 20px 0px #00000080;
+}
+
+.box{
+    width: 297.25px;
+height: 221.67px;
+top: 718.22px;
+left: 482.47px;
+box-shadow: 0px 0px 20px 0px #00000080;
+}
+
+.hover{
+    width: 297.25px;
+height: 221.67px;
+top: 718.22px;
+left: 819.85px;
+box-shadow: 0px 0px 20px 0px #00000080;
+}
+
+
+
+
+.section-two {
+    width: 1273px;
+height: 399px;
+top: 600px;
+left: 47px;
+background: #000000;
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 40px;
+}
+
+
+.section-three{
+    background-color: #000000;   
+    width: 1273px;
+height: 399px;
+display: flex;
+justify-content: center;
+gap: 40px;
+}
+
+h3{
+    color: white;
+    width: 351px;
+height: 34px;
+top: 1060px;
+left: 292px;
+}
+
+p{
+    color: white;
+    width: 323px;
+height: 234px;
+top: 1124px;
+left: 709px;
+display: flex;
+justify-content: center ;
+}
+
+.hello{
+    width: 400px;
+height: 234px;
+top: 1124px;
+left: 292px;
+}
+
+
+.section-four{
+    background: #000;
+    width: 1273px;
+    height: 399px;
+    display: flex;
+    justify-content: center;
+}
+
+footer{
+    width: 1373px;
+height: 70px;
+top: 1927px;
+display: flex;
+justify-content: center;
+}
+
+
+
+
